@@ -1,0 +1,16 @@
+.first{
+    background-color: #d51912;
+}
+.colorItems{
+    color: white;
+}
+#submit{
+    border: none;
+    background-color: #d51912;
+    color: white;
+}
+.fire{
+    margin-left: 505px;
+    margin-top: 20px;
+    color: #d51912;
+}
